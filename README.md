@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+我是谁？ Who am I? 私は誰？
+
+我从哪里来？ where was I from?　どこから来たの？
+
+我要到哪里去？ where will I go?　どこに行くの？
+
+
 <!--
 **bezel452/bezel452** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
